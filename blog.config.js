@@ -18,10 +18,10 @@ const BLOG = {
   pagesShow: {
     newsletter: true,
     notes: true,
-    projects: false,
-    contact: false,
-    books: false,
-    friends: false
+    projects: true,
+    contact: true,
+    books: true,
+    friends: true 
   },
   showWeChatPay: false,
   previewImagesEnabled: true,
